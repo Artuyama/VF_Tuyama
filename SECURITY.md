@@ -31,3 +31,5 @@ Please see the [design docs](https://github.com/WorldHealthOrganization/app/blob
 
 As a managed service, we expect to always run on the latest version. The clients
 aren't pushed to update unless there is a security issue.
+
+Modificação para fazer o commit para a VF.
